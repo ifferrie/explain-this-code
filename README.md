@@ -2,6 +2,8 @@
 
 A web application that allows users to paste code snippets, select a programming language, and receive AI-generated explanations of the code using OpenAI's API. Built with Next.js, React, and Tailwind CSS.
 
+![Demo](./public/demo.gif)
+
 ---
 
 ## Features
